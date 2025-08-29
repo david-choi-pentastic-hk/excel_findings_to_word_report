@@ -22,8 +22,8 @@ This is an office script used to rearrange the cells for copying to word report.
 Miranda
 
 ## Remarks
-This office script is not verified and validated by client.
-The output of this script might not exactly meet the expectations of client.
+This office script is not verified and validated by client.  
+The output of this script might not exactly meet the expectations of client.  
 
 ---
 
