@@ -18,12 +18,12 @@ This is an office script used to rearrange the cells for copying to word report.
 4. Right click the script "excel findings to word report".
 5. Run this script.
 
-## Person in Charge
+## Client
 Miranda
 
 ## Remarks
-This office script is not verified and validated by PIC.
-The output of this script might not exactly meet the expectations of PIC.
+This office script is not verified and validated by client.
+The output of this script might not exactly meet the expectations of client.
 
 ---
 
